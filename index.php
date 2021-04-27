@@ -1,6 +1,8 @@
 <?php
 
-//echo "Hello word";
+echo "Hello word";
+echo "Este projeto esta sendo feito por Dennyson Barros Silva";
+echo "teste de github";
 
 $pessoas = array();
 
