@@ -2,20 +2,20 @@
 
 //echo "Hello word";
 
-$frutas = array();
+$pessoas = array();
 
-array_push($frutas, array(
-	'nome'=>'Dennyson',
-	'idade'=>33
-
-));
-
-array_push($frutas, array(
+array_push($pessoas, array(
 	'nome'=>'Tatiana',
 	'idade'=>38
 
 ));
 
-print_r($frutas);
+array_push($pessoas, array(
+	'nome'=>'dennyson',
+	'idade'=>33
+
+));
+
+print_r($pessoas);
 
 ?>
